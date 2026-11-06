@@ -11,6 +11,38 @@ The project introduces a range of features designed to provide a more detailed a
 
 ---
 
+> [!NOTE] 
+> This product is not affiliated with Gorilla Tag or Another Axiom LLC and is not endorsed or otherwise sponsored by Another Axiom LLC. Portions of the materials contained herein are property of Another Axiom LLC. © 2026 Another Axiom LLC.<br>
+> Menu sends requests to https://menu.seralyth.software for telemetry, administrative, and TTS (text to speech) purposes.<br>
+> Menu sends requests to https://text.pollinations.ai for the mod **AI Assistant**. (when enabled)<br>
+> Menu sends requests to https://lazypy.ro for many TTS voices.<br>
+> Menu connects to wss://menu.seralyth.software for friend system and administrative purposes.<br>
+> **Read our [Privacy Policy](https://seralyth.software/policy?tab=privacy) (https://seralyth.software/policy) for details on how this data is collected and used.**<br>
+> The donate, search, star and speak symbols are provided from [Icons8](https://icons8.com).
+
+> Seralyth Menu  README.md<br>
+> A community driven mod menu for Gorilla Tag with over 1000+ mods
+>
+> Copyright (C) 2026  Seralyth Software
+> https://github.com/Seralyth/Seralyth-Menu
+> 
+> This program is free software: you can redistribute it and/or modify
+> it under the terms of the GNU General Public License as published by
+> the Free Software Foundation, either version 3 of the License, or
+> (at your option) any later version.
+> 
+> This program is distributed in the hope that it will be useful,
+> but WITHOUT ANY WARRANTY; without even the implied warranty of
+> MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+> GNU General Public License for more details.
+> 
+> You should have received a copy of the GNU General Public License
+> along with this program.  If not, see <https://www.gnu.org/licenses>.
+
+> This product is not affiliated with Another Axiom Inc. or its videogames Gorilla Tag and Orion Drift and is not endorsed or otherwise sponsored by Another Axiom. Portions of the materials contained herein are property of Another Axiom. ©2021 Another Axiom Inc.
+
+> The names "Seralyth", "Seralyth Software", logos, artwork, and branding are not covered by this license.
+
 ## Features
 
 ### 🎮 Player Information
