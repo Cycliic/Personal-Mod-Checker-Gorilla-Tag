@@ -4,9 +4,15 @@
 </p>
 
 <p align="center">
-	<a href="https://github.com/Seralyth/Seralyth-Menu/releases"><img src="https://img.shields.io/github/v/release/Seralyth/Seralyth-Menu?label=version&style=for-the-badge"></a>
-	<a href="https://github.com/Seralyth/Seralyth-Menu/releases/latest"><img src="https://img.shields.io/github/downloads/Seralyth/Seralyth-Menu/latest/Seralyth-Menu.dll?style=for-the-badge"></a>
-	<a href="https://discord.gg/seralyth"><img src="https://img.shields.io/discord/1500168360787447909?label=discord&style=for-the-badge&color=blueviolet"></a>
+    <a href="https://github.com/Cycliic/Personal-Mod-Checker-Gorilla-Tag/releases">
+        <img src="https://img.shields.io/github/v/release/Cycliic/Personal-Mod-Checker-Gorilla-Tag?label=version&style=for-the-badge">
+    </a>
+    <a href="https://github.com/Cycliic/Personal-Mod-Checker-Gorilla-Tag/releases/latest">
+        <img src="https://img.shields.io/github/downloads/Cycliic/Personal-Mod-Checker-Gorilla-Tag/latest/PersonalModChecker.dll?style=for-the-badge">
+    </a>
+    <a href="https://github.com/Cycliic/Personal-Mod-Checker-Gorilla-Tag/stargazers">
+        <img src="https://img.shields.io/github/stars/Cycliic/Personal-Mod-Checker-Gorilla-Tag?style=for-the-badge">
+    </a>
 </p>
 
 
@@ -41,35 +47,42 @@ Personal Mod Checker is designed to bring together player information, customiza
 
 ---
 
-<details>
-  <summary><b>System Compatibility</b></summary>
-	
-| Operating System | Menu | Fonts | Images | Sounds | Videos |
-|------------------|------|--------|--------|--------|--------|
-|<img src="Resources/GitHub/windows-10.png" height=20px> Windows 10|✅|✅|✅|✅|✅|
-|<img src="Resources/GitHub/windows-11.png" height=20px> Windows 11|✅|✅|✅|✅|✅|
-|<img src="Resources/GitHub/macos.png" height=20px> Mac OS|✅|✅|✅|✅|❌|
-|<img src="Resources/GitHub/linux.png" height=20px> Linux|✅|✅|✅|✅|❌|
+---
 
-</details>
+## System Compatibility
 
-<details>
-  <summary><b>Headset Compatibility</b></summary>
-	
-| Headset | Compatible |
-|---------|------|
-|Rift|✅|✅|
-|Rift S|✅|✅|
-|Oculus Go|⚠️|❌|
-|Quest 1|✅|✅|
-|Quest 2|✅|✅|
-|Quest Pro|✅|✅|
-|Quest 3/3s|✅|✅|
-|Pico 4/Pro|✅|✅|
-|Pico 4 Ultra Pro|✅|⚠️|
-|Valve Index|✅|✅|
-|HTC VIVE/Pro|✅|⚠️|
-|HP Reverb G1/G2|✅|⚠️|
+| Operating System | Player Info | Mod Detection | Player Inspection | Configuration | Room Management | VR Controls |
+|------------------|-------------|---------------|------------------|---------------|-----------------|------------|
+| Windows 10 | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ |
+| Windows 11 | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ |
+| macOS | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ |
+| Linux | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ |
+
+## Headset Compatibility
+
+| Headset | Compatibility |
+|---------|---------------|
+| Rift | ✅ |
+| Rift S | ✅ |
+| Quest 1 | ✅ |
+| Quest 2 | ✅ |
+| Quest Pro | ✅ |
+| Quest 3 / 3S | ✅ |
+| Pico 4 / Pro | ✅ |
+| Pico 4 Ultra Pro | ⚠️ |
+| Valve Index | ✅ |
+| HTC VIVE / Pro | ❌ |
+
+## Project Focus
+
+- Creating an intuitive, VR-native interface
+- Providing detailed player information where available
+- Organizing multiple utilities into a cohesive system
+- Implementing smooth animations and responsive interactions
+- Maintaining a clean and structured interface
+- Expanding the functionality of a personal Gorilla Tag utility
+
+---
 
 The project focuses on:
 
