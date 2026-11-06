@@ -3,6 +3,13 @@
   <img width="300" height="144" alt="Gtag-logo" src="https://github.com/user-attachments/assets/9d24763c-07b2-4de0-8d20-4c8bf3f64415" />
 </p>
 
+<p align="center">
+	<a href="https://github.com/Seralyth/Seralyth-Menu/releases"><img src="https://img.shields.io/github/v/release/Seralyth/Seralyth-Menu?label=version&style=for-the-badge"></a>
+	<a href="https://github.com/Seralyth/Seralyth-Menu/releases/latest"><img src="https://img.shields.io/github/downloads/Seralyth/Seralyth-Menu/latest/Seralyth-Menu.dll?style=for-the-badge"></a>
+	<a href="https://discord.gg/seralyth"><img src="https://img.shields.io/discord/1500168360787447909?label=discord&style=for-the-badge&color=blueviolet"></a>
+</p>
+
+
 **A custom Gorilla Tag VR utility focused on player information, in-game customization, and immersive interface design.**
 
 Personal Mod Checker is a personal Gorilla Tag modification built to bring an extensive collection of player information tools, configuration options, and room utilities directly into the VR environment. Featuring a fully interactive, hand-mounted interface, the mod is designed around accessibility, responsiveness, and a distinctive visual identity. Every system is built to operate within the VR experience, combining smooth animations, interactive panels, custom audio feedback, and controller-based navigation into a cohesive utility.
@@ -29,6 +36,40 @@ The project introduces a range of features designed to provide a more detailed a
 ## Project Goals
 
 Personal Mod Checker is designed to bring together player information, customization, and room utilities through an interface specifically created for Gorilla Tag VR. The goal is to create a compact, immersive, and responsive experience that prioritizes usability while maintaining its own distinctive visual identity.
+
+</details>
+
+---
+
+<details>
+  <summary><b>System Compatibility</b></summary>
+	
+| Operating System | Menu | Fonts | Images | Sounds | Videos |
+|------------------|------|--------|--------|--------|--------|
+|<img src="Resources/GitHub/windows-10.png" height=20px> Windows 10|✅|✅|✅|✅|✅|
+|<img src="Resources/GitHub/windows-11.png" height=20px> Windows 11|✅|✅|✅|✅|✅|
+|<img src="Resources/GitHub/macos.png" height=20px> Mac OS|✅|✅|✅|✅|❌|
+|<img src="Resources/GitHub/linux.png" height=20px> Linux|✅|✅|✅|✅|❌|
+
+</details>
+
+<details>
+  <summary><b>Headset Compatibility</b></summary>
+	
+| Headset | Compatible |
+|---------|------|
+|Rift|✅|✅|
+|Rift S|✅|✅|
+|Oculus Go|⚠️|❌|
+|Quest 1|✅|✅|
+|Quest 2|✅|✅|
+|Quest Pro|✅|✅|
+|Quest 3/3s|✅|✅|
+|Pico 4/Pro|✅|✅|
+|Pico 4 Ultra Pro|✅|⚠️|
+|Valve Index|✅|✅|
+|HTC VIVE/Pro|✅|⚠️|
+|HP Reverb G1/G2|✅|⚠️|
 
 The project focuses on:
 
