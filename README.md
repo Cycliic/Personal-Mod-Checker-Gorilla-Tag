@@ -70,8 +70,8 @@ Personal Mod Checker is designed to bring together player information, customiza
 
 | Operating System | Player Info | Mod Detection | Player Inspection | Configuration | Room Management | VR Controls |
 |------------------|-------------|---------------|------------------|---------------|-----------------|------------|
-| Windows 10 | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ |
-| Windows 11 | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ |
+| Windows 10 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Windows 11 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | macOS | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ |
 | Linux | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ |
 
