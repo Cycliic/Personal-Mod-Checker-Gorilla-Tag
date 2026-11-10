@@ -1,7 +1,24 @@
-<img width="851" height="315" alt="Background (1)" src="https://github.com/user-attachments/assets/b003b9d2-7685-4a1b-bca8-56ef057f20db" />
-<p align="center">
-  <img width="300" height="144" alt="Gtag-logo" src="https://github.com/user-attachments/assets/9d24763c-07b2-4de0-8d20-4c8bf3f64415" />
-</p>
+<div align="center" style="background: transparent;">
+
+  <img
+    width="851"
+    height="315"
+    alt="Background"
+    src="https://github.com/user-attachments/assets/b003b9d2-7685-4a1b-bca8-56ef057f20db"
+    style="background: transparent;"
+  />
+
+  <br>
+
+  <img
+    width="300"
+    height="144"
+    alt="Gtag-logo"
+    src="https://github.com/user-attachments/assets/9d24763c-07b2-4de0-8d20-4c8bf3f64415"
+    style="background: transparent;"
+  />
+
+</div>
 
 <p align="center">
     <a href="https://github.com/Cycliic/Personal-Mod-Checker-Gorilla-Tag/releases">
