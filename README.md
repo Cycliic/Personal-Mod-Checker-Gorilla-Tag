@@ -119,3 +119,5 @@ Personal Mod Checker is a personal project currently focused on developing and r
 The project is built around C#, Unity, and the Gorilla Tag modding environment.
 
 **This project is intended for personal use and experimentation within Gorilla Tag.**
+
+:)
